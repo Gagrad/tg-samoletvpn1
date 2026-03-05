@@ -1,3 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>VPN</title>
+</head>
+
+<body>
+
+<div style="text-align:center;font-family:Arial;margin-top:120px;">
+<h2>🔐 Бесплатные VPN коды больше не выдаются</h2>
+<p>За покупкой VPN заходи в Telegram:</p>
+<h2>@samoletvpn_bot</h2>
+</div>
+
+<pre style="display:none;">
 vless://824fc5dd-4bc9-4db3-901e-686b4d14bc3b@sk-01.probizvpn.com:443?encryption=none&security=reality&sni=sk-01.probizvpn.com&fp=random&pbk=9ITdhrriqT8BTjnyg9L38fFFvV3L0oin3D5D9Aqrd1o&sid=c6ce41466f8c4043&spiderX=%2F&type=tcp&flow=xtls-rprx-vision#🇸🇰 Словакия | За продлением 👇
 vless://824fc5dd-4bc9-4db3-901e-686b4d14bc3b@de-01.probizvpn.com:443?encryption=none&security=reality&sni=de-01.probizvpn.com&fp=chrome&pbk=ZMgjoe4oMyF_tcxTvdDwGlOvGkPIij2pQ1d0A3Qajl8&sid=59a7d7265aef033a&spiderX=%2F&type=tcp&flow=xtls-rprx-vision#🇩🇪 Германия | Подписки 👇
 vless://824fc5dd-4bc9-4db3-901e-686b4d14bc3b@us-01.probizvpn.com:443?encryption=none&security=reality&sni=us-01.probizvpn.com&fp=random&pbk=3g7PSrdPfyqYHstydDAp027kSV8_BcLSPoGJGI6yxRo&sid=639a8f9635bf5c3f&spiderX=%2F&type=tcp&flow=xtls-rprx-vision#🇺🇸 США | Заходи в бота 👇
@@ -7,3 +23,7 @@ vless://8d0b2dc1-42f9-44d8-aec4-ca4ca05f0336@103.27.157.200:8080?type=ws&path=%2
 vless://88a66608-d1b9-4939-a812-461ac0eb7dde@95sub.ghost-lan.com:443?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=13QRazrM7OwuIk4TuCPzasQMP_fHTVM4xikaVP4-KWQ&sid=f23728e727c01887&spiderX=&type=tcp&flow=xtls-rprx-vision#🇷🇺 Обход глушилок и Россия
 vless://88a66608-d1b9-4939-a812-461ac0eb7dde@95sub.ghost-lan.com:8444?encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=rgQXJB3AvfhFn2pwyxM9fn0VWuDw95bbNUM-YmuPrHw&sid=ba1f85c54470e904&spiderX=&type=tcp&flow=xtls-rprx-vision#🇪🇪 Обход глушилок и Эстония
 vless://88a66608-d1b9-4939-a812-461ac0eb7dde@95sub.ghost-lan.com:8443?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Z-wM5gqK6_RXwYzklavgQlX02-8B2C86_nHVvTktKU4&sid=0d5f755988ec4f39&spiderX=&type=tcp&flow=xtls-rprx-vision#🇳🇱 Обход глушилок и Нидерланды
+</pre>
+
+</body>
+</html>
